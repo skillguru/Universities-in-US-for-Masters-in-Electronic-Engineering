@@ -1,7 +1,7 @@
-Universities-in-US-for-Masters-in-Electronic-Engineering
+Universities in US for Masters in Electronic Engineering
 ========================================================
 
-This is the list of unievsrities in USA based on completion data in Masters in Electronic Engineering
+This is the list of unievsrities in USA based on completion data in Masters / Graduation in Electronic & Electrical Engineering
 
 University name  |   No of Students completed
 -----------------|-------------------------
@@ -59,4 +59,4 @@ Syracuse University|61
 
 The data is based on 2011-2012 completeion data from IPEDS
 
-[Universities for Master in Electonics and Electrial Engineering](http://studyn.us/2014/06/20/electrical-engineering-colleges/)
+[Universities for Master in Electronics and Electrical Engineering](http://studyn.us/2014/06/20/electrical-engineering-colleges/)
