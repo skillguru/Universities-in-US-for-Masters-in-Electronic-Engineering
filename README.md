@@ -59,4 +59,4 @@ Syracuse University|61
 
 The data is based on 2011-2012 completeion data from IPEDS
 
-[Universities for Master in Electronics and Electrical Engineering](http://studyn.us/2014/06/20/electrical-engineering-colleges/)
+[Universities for Master in Electronics and Electrical Engineering](https://www.collegehippo.com/graduate-school/programs/top-ranked-masters-degree-electrical-and-electronics-engineering)
